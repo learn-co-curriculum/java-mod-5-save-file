@@ -42,7 +42,7 @@ statements to create an `employee` table, along with
 SQL statements to insert several rows into the table.
 
 1. [Fork and clone this lesson](https://github.com/learn-co-curriculum/java-mod-5-save-file).
-   The `scripts` folder contains the file `create_insert_employee.sql`.   
+   The lesson contains the file `create_insert_employee.sql`.   
    
 2. Click on the Open File icon in the Query Tool toolbar.    
 
